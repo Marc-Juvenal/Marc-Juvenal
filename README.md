@@ -3,6 +3,7 @@
 - 🌱  I am currently learning to code with HTML, CSS in order to understand the job and facilitate job interviews between the candidate and the company.
 - 💞️ I am looking to collaborate with developers looking for a job.
 - 📫 How to reach me... just click here marcjuvenal95@gmail.com and leave me an email, I'll get back to you
-
+- 
+- Now I'am Developer Fullstack (23/09-->).
 <!---
 --->
